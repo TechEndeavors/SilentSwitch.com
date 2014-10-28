@@ -1,7 +1,7 @@
 SilentSwitch.com
 =============
 
-CDNBalance is a service that does health monitoring on your infrastructure and makes automated changes to various services to ensure that any problems don't affect your end users experience. 
+SilentSwitch is a service that does health monitoring on your infrastructure and makes automated changes to various services to ensure that any problems don't affect your end users experience. 
 
 The initial focus is monitoring your front-end web server(s) and making changes to Cloudflare so server downtime doesn't result in errors being shown to the users. 
 
